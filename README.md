@@ -5,6 +5,4 @@ This is a simple readme file.
 Modifying the file.
 
 #Heading 2
-some updates
-
-updates in new branch
+some updates true
